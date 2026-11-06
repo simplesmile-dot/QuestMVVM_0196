@@ -32,7 +32,7 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import androidx.core.R
+import com.example.app8.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
